@@ -13,7 +13,9 @@ Features:
 5. Cart: Add to cart, Remove from cart for customers. 
 6. Order: Place Order, View previous Orders for customers; view recieved orders for Admin.
 7. Feature to Add/Remove products for Admin
-8. Order confirmation Email to the customer. 
+8. Order confirmation Email to the customer.
+</br>
+<img src ="https://github.com/MohitSinghvi/electra/blob/master/Screenshots/home.PNG?raw=true"></img>
 
 
 
